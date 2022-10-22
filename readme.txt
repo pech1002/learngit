@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Fast forward --no-ff.
 Creat, push and syn origin branch.
 Coding 1.
+Coding 2.
